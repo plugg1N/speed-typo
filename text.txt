@@ -1,0 +1,4 @@
+Hello world! This is my first console curses app!
+The quick brown fox jumps over the lazy dog.
+The world is spinning around its orbit, and around Sun's orbit aswell.
+Python and JavaScript are clearly the most popular programming languages in the world!
